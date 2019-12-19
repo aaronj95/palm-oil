@@ -22,6 +22,7 @@ Manipulated variable = seasonal weather (time) ~ precipitation
 Responding variable = NDVI ~ FFB Yield
 
 ### NDVI Wet & Dry Season ###
+As seen from the NDVI images below, the NDVI distribution during the wet season is of greater strength indicated by higher concentrations of green colour which indicates that the NDVI values every 10m^2 are higher.
 ![NDVI Change](data/gif-img/ndvi_gif.gif)
 
 ### Environment Setup ###
