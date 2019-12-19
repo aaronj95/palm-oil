@@ -22,3 +22,10 @@ Manipulated variable = seasonal weather (time) ~ precipitation
 Responding variable = NDVI ~ FFB Yield
 
 ![NDVI Change](data/gif-img/ndvi_gif.gif)
+
+### Environment Setup ###
+1. Initialize a cloud instance with Linux Ubuntu OS & 4gb of RAM
+2. SSH into cloud instance via terminal with key pair authorization
+2. apt-get install Docker
+3. Run & Start Jupyter's docker image
+5. Access Jupyter notebook via browser http://hostname:8888/
