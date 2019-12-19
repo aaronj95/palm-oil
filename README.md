@@ -21,6 +21,7 @@ Manipulated variable = seasonal weather (time) ~ precipitation
 
 Responding variable = NDVI ~ FFB Yield
 
+### NDVI Wet & Dry Season ###
 ![NDVI Change](data/gif-img/ndvi_gif.gif)
 
 ### Environment Setup ###
